@@ -1,0 +1,35 @@
+{
+    "messages":[
+        {
+            "id":1,
+            "name": "John Doe",
+            "image": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dW5pdmVyc2l0eXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "message": "I liked the phase"
+        },
+        {
+            "id":2,
+            "name": "Mark Masai",
+            "image": "https://images.unsplash.com/photo-1607013407627-6ee814329547?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHVuaXZlcnNpdHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "message": "I liked hanging out with my friends"
+        },  
+        {
+            "id":3,
+            "name": "Reuben Kigame",
+            "image": "https://media.istockphoto.com/id/1334063560/photo/african-americans-college-students-e-leaning-with-their-teacher-during-a-class.jpg?b=1&s=170667a&w=0&k=20&c=dm6esL66UGFbj9bkeGAewyRS8Ht5JB-6QGBC_5eOmWM=",
+            "message": "I liked everything about the course" 
+        },
+        {
+            "id":4,
+            "name": "Paul Wekesa",
+            "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHVuaXZlcnNpdHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "message": "I really enjoyed this phase"
+        },
+        {
+            "id":5,
+            "name": "Mwana Hamisi Amadi",
+            "image": "https://plus.unsplash.com/premium_photo-1664372145525-ca2c23a1b58a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHVuaXZlcnNpdHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "message": "So far so good guys."
+        }
+        
+    ]
+}
